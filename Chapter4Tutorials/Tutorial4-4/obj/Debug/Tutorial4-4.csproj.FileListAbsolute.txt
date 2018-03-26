@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\obj\Debug\Tutorial4-4.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\obj\Debug\Tutorial4_4.Form1.resources
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\obj\Debug\Tutorial4_4.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\obj\Debug\Tutorial4-4.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\obj\Debug\Tutorial4-4.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\bin\Debug\Tutorial4-4.exe.config
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\bin\Debug\Tutorial4-4.exe
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\bin\Debug\Tutorial4-4.pdb
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\obj\Debug\Tutorial4-4.exe
+C:\Users\MTCStudent\Desktop\Chapter4Tutorials\Tutorial4-4\obj\Debug\Tutorial4-4.pdb
